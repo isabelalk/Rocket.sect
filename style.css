@@ -1,5 +1,5 @@
 body {
-  border: 2px solid #fff;
+  /*border: 2px solid #fff;*/
   margin: 0;
   background-color:#2C2B3D;
   color: #fff;
@@ -7,7 +7,7 @@ body {
 }
 
 .page{
-  border: 2px solid #1ee20c;
+   /*border: 2px solid #1ee20c;*/
   font-family: "JetBrains Mono", monospace;
   margin: 0 auto;
   padding: 0 100px;
@@ -15,7 +15,7 @@ body {
 }
 
 nav{
-  border: 2px solid #6f6363;
+   /*border: 2px solid #6f6363;*/
   padding-top: 71px;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ nav{
 }
 
 ul{
-  border: 2px solid #745e95;
+   /*border: 2px solid #745e95;*/
   display: flex;
   align-items: center;
   gap: 64px;
